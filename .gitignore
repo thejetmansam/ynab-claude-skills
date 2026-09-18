@@ -1,0 +1,8 @@
+# Never commit real budget data or credentials
+.env
+.env.*
+*.local
+private/
+secrets/
+*.ynab-export.*
+budget-snapshot*.json
